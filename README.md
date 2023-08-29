@@ -24,8 +24,6 @@ Find the values of MSE, MAE and RMSE
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: SHAIK MUFEEZUR RAHAMAN
 RegisterNumber: 212221043007
-*/
-```
 import pandas as pd
 
 import numpy as np
@@ -108,8 +106,8 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 
 print("RMSE= ",rmse)
-
-*/ 
+*/
+```
 
 
 ## Output:
